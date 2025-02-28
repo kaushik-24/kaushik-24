@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Engineer skilled in Next.js, React, Node.js, and Python for web development. Experienced with PostgreSQL via Prisma, Auth0 for secure authentication, and optimizing workflows on Arch Linux with Neovim and i3wm. Passionate about open-source, RESTful APIs, and writing clean, scalable code.
+Software Developer skilled in Next.js, React, Node.js, and Python. Experienced with PostgreSQL via Prisma and optimizing workflows on Arch Linux with Neovim. Passionate about open-source and building clean, scalable web solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kaushik-gurung-1b029328a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:grg23kaushik@gmail.com) 
